@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+#myimg {
+    border-radius: 200px 200px 200px 200px;
+    width: 200px;
+}
+table {
+    color: blue;
+    border: solid pink 5px;
+    padding: 5px;
+    margin: 5px;
+}
+td {
+    border: solid 1px black;
+}
